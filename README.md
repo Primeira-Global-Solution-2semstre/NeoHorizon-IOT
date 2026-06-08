@@ -2,7 +2,6 @@
 
 [![ESP32](https://img.shields.io/badge/Hardware-ESP32-blue?style=for-the-badge&logo=espressif)](https://www.espressif.com/)
 [![Wokwi Sim](https://img.shields.io/badge/Simulado-no_Wokwi-20ae5e?style=for-the-badge)](https://wokwi.com/projects/466283893846870017)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 Este projeto consiste em um protótipo avançado de Internet das Coisas (IoT) desenvolvido com o microcontrolador **ESP32** para a **Global Solution 2026**. O sistema realiza a simulação de detritos orbitais e o cálculo em tempo real de riscos de colisão com satélites artificiais, visando a sustentabilidade e segurança da infraestrutura aeroespacial.
 
