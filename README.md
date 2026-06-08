@@ -12,9 +12,9 @@ A grande inovação da versão 2.6 é o uso de **múltiplos displays OLED (Dual-
 
 ## 👥 Integrantes do Grupo
 
-* **Rafael Kubagawa Ramos** - RM: 565572
-* **Nome do Integrante 2** - RM: XXXXX
-
+* **RAFAEL KUBAGAWA RAMOS** - RM: 565572
+* **VINICIUS SOTERAS BRAGA** - RM: 566230
+  
 ---
 
 ## 📺 Apresentação e Demonstração do Projeto
